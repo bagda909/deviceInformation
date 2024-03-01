@@ -1,0 +1,6 @@
+framework module Pods_DeviceInfo_DeviceInfoUITests {
+  umbrella header "Pods-DeviceInfo-DeviceInfoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
